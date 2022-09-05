@@ -5,6 +5,7 @@ ZCZC W00 200 L02 Class Zoom Meetings with lecturer
 ZCZC W00 30 L00 Look through OS Website and the first slide
 ZCZC W00 20 L01 Check Scele Forum and introduce myself in the Forum
 ZCZC W00 10 L03 Setup GitHub Repository for OS
+ZCZC W00 30 L04 Create GitHub Pages for OS
 ZCZC W00 15 L08 Chat friends regarding OS materials and preparation
 ZCZC W00 15 L05 Study slides and do Week 0's Quiz
 ZCZC W00 100 L10 Week 0 Assignments
