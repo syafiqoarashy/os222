@@ -5,10 +5,7 @@ permalink: LINKS/
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
 [LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/cbkadal.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
@@ -17,6 +14,10 @@ permalink: LINKS/
 
 1. [OS Course Website](https://os.vlsm.org/)<br>
 The website used for Operating System course. Especially used for weekly assignments.
+
+1. [GeeksForGeeks](https://www.geeksforgeeks.org/)<br>
+Website created for Computer Science geeks. Usually holds valuable information and very helpful
+regarding Computer Science.
 
 <br>
 <hr>
