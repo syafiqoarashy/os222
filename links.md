@@ -19,3 +19,9 @@ permalink: LINKS/
 StarBucks ipsum dolor J.CO Do Not!
 McD ipsum dolor Wendy's Burger King.
 KFC urna libero, in purus hana masa, sore wa tempura hokben.
+
+<br>
+<hr>
+&copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
+<hr>
+<br>
