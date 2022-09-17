@@ -4,7 +4,7 @@
 ZCZC W00 200 L02 ZOOM meetings related
 ZCZC W00 30 L00 General, etc.
 ZCZC W00 20 L01 SCELE/Discord related
-ZCZC W00 15 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend.
+ZCZC W00 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend.
 ZCZC W00 10 L03 Setup GitHub Repository for OS
 ZCZC W00 30 L04 Create GitHub Pages for OS
 ZCZC W00 15 L05 QUIZ Week 0
@@ -12,7 +12,7 @@ ZCZC W00 60 L10 Week 0 Assignments
 ZCZC W00 10 L41 TXT/mylog.txt update
 ZCZC W01 200 L02 ZOOM meetings related
 ZCZC W01 15 L05 QUIZ Week 1
-ZCZC W01 30 L08 OS Chat related (WA, LIME, Telegram, Signal) with Friend.
+ZCZC W01 30 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend.
 ZCZC W01 10 L41 TXT/mylog.txt update
 ZCZC W01 180 L11 Virtual Box Installment and Setup
 ZCZC W01 15 L01 SCELE/Discord related
@@ -20,3 +20,6 @@ ZCZC W01 30 L11 Week 1 Reading Assignments
 ZCZC W01 15 L11 links.md and index.md creation
 ZCZC W01 10 L40 TXT/myupdate.txt creation
 ZCZC W01 15 L41 TXT/mylog.txt update
+ZCZC W02 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend.
+ZCZC W02 15 L05 QUIZ Week 2
+ZCZC W02 5 L41 TXT/mylog.txt update
