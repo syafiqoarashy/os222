@@ -22,6 +22,9 @@ regarding Computer Science.
 3. [OS Scele Course Page](https://scele.cs.ui.ac.id/course/view.php?id=3398)<br>
 The Scele page dedicated to the Operating System course.
 
+4. [Basic Linux Commands](https://linoxide.com/linux-command/essential-linux-basic-commands/)<br>
+Website that shows you commonly used Linux commands that will help you.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
