@@ -24,3 +24,4 @@ ZCZC W02 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend.
 ZCZC W02 15 L05 QUIZ Week 2
 ZCZC W02 5 L41 TXT/mylog.txt update
 ZCZC W02 30 L12 GnuPG Key for Assignment 2
+ZCZC W02 90 L12 Downloading Scripts
