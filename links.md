@@ -25,6 +25,9 @@ The Scele page dedicated to the Operating System course.
 4. [Basic Linux Commands](https://linoxide.com/linux-command/essential-linux-basic-commands/)<br>
 Website that shows you commonly used Linux commands that will help you.
 
+5. [VirtualBox Beginners Guide](https://www.youtube.com/watch?v=sB_5fqiysi4)<br>
+A youtube video guide about VirtualBox. The video shows you how to set-up and use VirtualBox.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
