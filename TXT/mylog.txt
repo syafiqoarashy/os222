@@ -24,10 +24,11 @@ ZCZC W02 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend.
 ZCZC W02 15 L05 QUIZ Week 2
 ZCZC W02 5 L41 TXT/mylog.txt update
 ZCZC W02 30 L12 GnuPG Key for Assignment 2
-ZCZC W02 90 L12 Downloading Scripts
+ZCZC W02 60 L12 Downloading Scripts
 ZCZC W02 15 L12 Update links on links.md
 ZCZC W02 10 L01 GPG Key submission on SCELE
 ZCZC W02 15 L12 Run Scripts for Assignment 2
 ZCZC W02 100 L12 Reading, Watching, and Demos for Assignment 2
 ZCZC W02 200 L02 ZOOM meetings related with lecturer
 ZCZC W02 15 L41 TXT/mylog.txt update
+ZCZC W02 5 L40 TXT/myupdate.txt update
