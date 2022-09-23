@@ -35,6 +35,10 @@ ZCZC W02 5 L40 TXT/myupdate.txt update
 ZCZC W03 20 L05 QUIZ01 Week 3
 ZCZC W03 100 L02 ZOOM meetings related with lecturer
 ZCZC W03 100 L00 In Class meeting with lecturer
-ZCZC W03 60 L13 Readings and Demos for Assignment 2
-ZCZC W03 45 L13 Add/Create an Extra Virtual Disk for Assignment 2
+ZCZC W03 90 L13 Readings and Demos for Assignment 3
+ZCZC W03 45 L13 Add/Create an Extra Virtual Disk for Assignment 3
 ZCZC W03 10 L41 TXT/mylog.txt update
+ZCZC W03 15 L13 Update links on links.md for Assignment 3
+ZCZC W03 60 L13 Finishing for Assignment 3
+ZCZC W03 15 L41 TXT/mylog.txt update
+ZCZC W03 5 L40 TXT/myupdate.txt update
