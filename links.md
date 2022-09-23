@@ -46,6 +46,9 @@ A crash course on shell scripting. A great introduction to shell scripting.
 8. [COMPLETE Linux Hardening, Privacy, and Security Guide](https://www.youtube.com/watch?v=Sa0KqbpLye4)<br>
 A youtube video tutorial on how to make Linux as secure, private, and anonymous as we can.
 
+9. [Cybersecurity Fundamentals](https://www.youtube.com/watch?v=5MMoxyK1Y9o)<br>
+A video about the introduction of cybersecurity. The video talks alot about the basic concepts.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
