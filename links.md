@@ -12,8 +12,12 @@ permalink: LINKS/
 
 # LINKS
 
+## WEEK 00
+
 1. [OS Course Website](https://os.vlsm.org/)<br>
 The website used for Operating System course. Especially used for weekly assignments.
+
+## WEEK 01
 
 2. [GeeksForGeeks](https://www.geeksforgeeks.org/)<br>
 Website created for Computer Science geeks. Usually holds valuable information and very helpful
@@ -22,11 +26,15 @@ regarding Computer Science.
 3. [OS Scele Course Page](https://scele.cs.ui.ac.id/course/view.php?id=3398)<br>
 The Scele page dedicated to the Operating System course.
 
+## WEEK 02
+
 4. [Basic Linux Commands](https://linoxide.com/linux-command/essential-linux-basic-commands/)<br>
 Website that shows you commonly used Linux commands that will help you.
 
 5. [VirtualBox Beginners Guide](https://www.youtube.com/watch?v=sB_5fqiysi4)<br>
 A youtube video guide about VirtualBox. The video shows you how to set-up and use VirtualBox.
+
+## WEEK 03
 
 6. [Virtual Machine in 3 Minutes](https://www.youtube.com/watch?v=yIVXjl4SwVo)<br>
 A brief explanation about the concept of virtual machine in 3 minutes. There are terms that that'll make us 
