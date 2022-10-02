@@ -47,4 +47,5 @@ ZCZC W04 100 L02 ZOOM meetings related with lecturer
 ZCZC W04 100 L00 In Class meeting with lecturer
 ZCZC W04 20 L05 QUIZ02 Week 4
 ZCZC W04 20 L05 QUIZ01 Week 3
+ZCZC W04 90 L13 Readings and Demos for Assignment 4
 ZCZC W04 15 L41 TXT/mylog.txt update
