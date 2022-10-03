@@ -37,7 +37,7 @@ A youtube video guide about VirtualBox. The video shows you how to set-up and us
 ## WEEK 03
 
 6. [Virtual Machine in 3 Minutes](https://www.youtube.com/watch?v=yIVXjl4SwVo)<br>
-A brief explanation about the concept of virtual machine in 3 minutes. There are terms that that'll make us 
+A brief explanation about the concept of virtual machine in 3 minutes. There are terms that'll make us 
 understand easier about virtual machine.
 
 7. [How to Write Bash Scripts](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)<br>
@@ -48,6 +48,20 @@ A youtube video tutorial on how to make Linux as secure, private, and anonymous 
 
 9. [Cybersecurity Fundamentals](https://www.youtube.com/watch?v=5MMoxyK1Y9o)<br>
 A video about the introduction of cybersecurity. The video talks alot about the basic concepts of cybersecurity.
+
+## WEEK 04
+
+10. [Basics of OS](https://www.youtube.com/watch?v=F18RiREDkwE)<br>
+An explanation about the basics of OS. Very useful content to learn about the fundamental of OS.
+
+11. [212 Bash Scripting Examples](https://www.youtube.com/watch?v=q2z-MRoNbgM)<br>
+Real examples of Bash Scripting. Very helpful if you want to see common examples and the use of Bash Scripting.
+
+12. [How a CPU Works](https://www.youtube.com/watch?v=cNN_tTXABUA)<br>
+A video explaining on how a CPU functions. Fun video to learn abit more about CPUs.
+
+13. [7 Worst OS](https://www.youtube.com/watch?v=K9LjvXKA0DM)<br>
+A fun video about the worst OSes. You can learn on why they were deemed as bad in this video.
 
 <br>
 <hr>
