@@ -65,6 +65,8 @@ ZCZC W05 15 L41 TXT/mylog.txt update
 ZCZC W05 90 L62 Backup Virtual Debian Guest
 ZCZC W05 30 L15 Testing Lowest Memory for Assignment 5
 ZCZC W05 45 L15 Script Download for Assignment 5
+ZCZC W05 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend
 ZCZC W05 30 L15 Modify memory/mymemory2.c for Assignment 5
 ZCZC W05 15 L15 Update links on links.md for Assignment 5
 ZCZC W05 5 L40 TXT/myupdate.txt update
+ZCZC W05 15 L43 TXT/myrank.txt update
