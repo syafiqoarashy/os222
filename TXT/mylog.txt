@@ -47,7 +47,7 @@ ZCZC W04 100 L02 ZOOM meetings related with lecturer
 ZCZC W04 100 L00 In Class meeting with lecturer
 ZCZC W04 20 L05 QUIZ02 Week 4
 ZCZC W04 15 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend
-ZCZC W04 20 L05 QUIZ01 Week 3
+ZCZC W04 20 L05 QUIZ01 Week 4
 ZCZC W04 90 L14 Readings and Demos for Assignment 4
 ZCZC W04 15 L41 TXT/mylog.txt update
 ZCZC W04 30 L14 Script Download for Assignment 4
@@ -57,3 +57,6 @@ ZCZC W04 15 L43 TXT/myrank.txt update
 ZCZC W04 15 L40 TXT/myupdate.txt update
 ZCZC W04 15 L41 TXT/mylog.txt update
 ZCZC W04 20 L01 Look at SCELE for announcement
+ZCZC W05 15 L05 QUIZ01 WEEK 5
+ZCZC W05 90 Reading and Demos for Assignment 5
+ZCZC W05 15 L41 TXT/mylog.txt update
