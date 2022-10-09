@@ -63,6 +63,19 @@ A video explaining on how a CPU functions. Fun video to learn abit more about CP
 13. [7 Worst OS](https://www.youtube.com/watch?v=K9LjvXKA0DM)<br>
 A fun video about the worst OSes. You can learn on why they were deemed as bad in this video.
 
+## WEEK 05
+
+14. [C Programming Tutorial for Beginners](https://www.youtube.com/watch?v=KJgsSFOSQv0)<br>
+A video guiding you on the C programming language. It'll teach you the foundation into the core concepts of
+C programming language.
+
+15. [Memory Management](https://www.youtube.com/watch?v=p9yZNLeOj4s)<br>
+An overview video of the paged and segmented memory management systems. Helpful to know more about memory
+management in Operating System.
+
+16. [Making Minecraft with C](https://www.youtube.com/watch?v=4O0_-1NaWnY)<br>
+A guy creates a Minecraft game fully with C and OpenGL. A fun example of how powerful C can be when used correctly.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
