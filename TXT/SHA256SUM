@@ -1,7 +1,11 @@
 019b9f2989c69a416900d54e98f3d312cc510249907d7e10471e21334da8c830  myW02.tar.bz2.asc
 3acee241bd1ca83d52d1fe14ad4dfecec864dc1dab12f3b19df94d4e0ae4e1b5  myW03.tar.bz2.asc
 1b4ec01ddb92da4759aa30ab4c197533114847e18669b7b9a61ce4421c63dc6d  myW04.tar.bz2.asc
+<<<<<<< HEAD
 f70fdcc704072804942f5386c3ffa32a4fd3fd45ed28ea142732d506dae2f3ed  myW05.tar.bz2.asc
+=======
+dc921c9e73cf6dc52dfcd4e8a000eea17651380d71bf7cfeb9d5d9f1c6a8f9e3  myW05.tar.bz2.asc
+>>>>>>> a7e6baf (week 5 revision)
 292660c3bcb72990a18fb5afea71fdc3a0895a5699faa3bfceaac91d1818095b  mylog.txt
 f2ae8b72d3f4f04c3710f56a83f5247a8212adb3324d71fa1f206cf1a9dbfddb  mypubkey.txt
 6043b870a066aa1151033eea6ca7b384563485afddda9d2150a4ffd64e1588f8  myrank.txt
