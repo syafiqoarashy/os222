@@ -76,6 +76,18 @@ management in Operating System.
 16. [Making Minecraft with C](https://www.youtube.com/watch?v=4O0_-1NaWnY)<br>
 A guy creates a Minecraft game fully with C and OpenGL. A fun example of how powerful C can be when used correctly.
 
+## WEEK 06
+
+17. [fork() Function in C](https://www.youtube.com/watch?v=cex9XrZCU14)<br>
+A video explaining about the fork() function in C programming language.
+
+18. [Introduction to Threads](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
+An introduction video about Threads. Also explains about the benefits of it.
+
+19. [Process Scheduling](https://www.youtube.com/watch?v=THqcAa1bbFU)<br>
+An animation showing the features of a process scheduling system. It explains the principle of a round robin scheduling algorithm.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
