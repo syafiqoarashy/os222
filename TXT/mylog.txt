@@ -77,3 +77,4 @@ ZCZC W05 15 L05 QUIZ01 WEEK 6
 ZCZC W06 90 L16 Reading and Demos for Assignment 6
 ZCZC W06 45 L16 Script Download for Assignment 6
 ZCZC W06 15 L41 TXT/mylog.txt update
+ZCZC W06 45 L16 Fork() and Shared Memory for Assignment 6
