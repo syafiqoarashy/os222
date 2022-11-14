@@ -96,4 +96,9 @@ ZCZC W07 30 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend
 ZCZC W07 10 L40 TXT/myupdate.txt update
 ZCZC W07 20 L43 TXT/myrank.txt update
 ZCZC W07 30 L17 Update links on links.md for Assignment 7
-ZCZC W07 30 L17 POPQUIZ1 on links.md for Assignment 7
+ZCZC W07 30 L17 POPQUIZ1 for Assignment 7
+ZCZC W07 60 L17 POPQUIZ2 for Assignment 7
+ZCZC W07 30 L41 TXT/mylog.txt update
+ZCZC W07 15 L17 Finishing for Assignment 7
+ZCZC W07 15 L17 Run and Confirm for Assignment 7
+ZCZC W07 15 L41 TXT/mylog.txt update
