@@ -87,6 +87,17 @@ An introduction video about Threads. Also explains about the benefits of it.
 19. [Process Scheduling](https://www.youtube.com/watch?v=THqcAa1bbFU)<br>
 An animation showing the features of a process scheduling system. It explains the principle of a round robin scheduling algorithm.
 
+## WEEK 07
+
+17. [Deadlock in OS](https://www.youtube.com/watch?v=onkWXaXAgbY)<br>
+A video explaining about Deadlocks in OS. There're also real-world examples.
+
+18. [Process Synchronization](https://www.youtube.com/watch?v=ph2awKa8r5Y)<br>
+A video discussing process synchronization in Operating Systems. One of the material we discussed in Week 7 was Process Synchronization.
+
+19. [Critical Section Animation](https://www.youtube.com/watch?v=6x_XMDCMyAk)<br>
+An animation explaining the solution to Critical Section in Operating System.
+
 
 <br>
 <hr>
