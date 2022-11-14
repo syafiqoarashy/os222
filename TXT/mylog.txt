@@ -83,3 +83,5 @@ ZCZC W06 15 L43 TXT/myrank.txt update
 ZCZC W06 15 L16 Update links on links.md for Assignment 6
 ZCZC W06 15 L16 Finishing for Assignment 6
 ZCZC W06 15 L41 TXT/mylog.txt update
+ZCZC W07 90 L17 Reading and Demos for Assignment 7
+ZCZC W06 15 L41 TXT/mylog.txt update
