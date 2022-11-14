@@ -86,8 +86,8 @@ ZCZC W06 15 L41 TXT/mylog.txt update
 ZCZC W07 100 L02 ZOOM meetings related with lecturer
 ZCZC W07 100 L00 In Class meeting with lecturer
 ZCZC W07 120 L17 Reading and Demos for Assignment 7
-ZCZC W07 15 L05 QUIZ07 WEEK 7
-ZCZC W07 15 L05 QUIZ07 WEEK 7
+ZCZC W07 15 L05 QUIZ02 WEEK 7
+ZCZC W07 15 L05 QUIZ01 WEEK 7
 ZCZC W07 30 L41 TXT/mylog.txt update
 ZCZC W07 120 L17 Script Download for Assignment 7
 ZCZC W07 180 L17 Synchronization for Assignment 7
