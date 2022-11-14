@@ -85,10 +85,15 @@ ZCZC W06 15 L16 Finishing for Assignment 6
 ZCZC W06 15 L41 TXT/mylog.txt update
 ZCZC W07 100 L02 ZOOM meetings related with lecturer
 ZCZC W07 100 L00 In Class meeting with lecturer
-ZCZC W07 90 L17 Reading and Demos for Assignment 7
-ZCZC W07 15 L05 QUIZ07 WEEK 6
-ZCZC W07 15 L05 QUIZ07 WEEK 6
+ZCZC W07 120 L17 Reading and Demos for Assignment 7
+ZCZC W07 15 L05 QUIZ07 WEEK 7
+ZCZC W07 15 L05 QUIZ07 WEEK 7
 ZCZC W07 30 L41 TXT/mylog.txt update
 ZCZC W07 120 L17 Script Download for Assignment 7
 ZCZC W07 180 L17 Synchronization for Assignment 7
 ZCZC W07 30 L41 TXT/mylog.txt update
+ZCZC W07 30 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend
+ZCZC W07 10 L40 TXT/myupdate.txt update
+ZCZC W07 20 L43 TXT/myrank.txt update
+ZCZC W07 30 L17 Update links on links.md for Assignment 7
+ZCZC W07 30 L17 POPQUIZ1 on links.md for Assignment 7
