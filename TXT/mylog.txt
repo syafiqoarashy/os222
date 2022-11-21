@@ -102,3 +102,26 @@ ZCZC W07 30 L41 TXT/mylog.txt update
 ZCZC W07 15 L17 Finishing for Assignment 7
 ZCZC W07 15 L17 Run and Confirm for Assignment 7
 ZCZC W07 15 L41 TXT/mylog.txt update
+ZCZC W08 100 L02 ZOOM meetings related with lecturer
+ZCZC W08 100 L00 In Class meeting with lecturer
+ZCZC W08 120 L18 Reading and Demos for Assignment 8
+ZCZC W08 15 L05 QUIZ02 WEEK 8
+ZCZC W08 15 L05 QUIZ01 WEEK 8
+ZCZC W08 30 L41 TXT/mylog.txt update
+ZCZC W08 120 L18 Script Download for Assignment 8
+ZCZC W08 60 L18 Linux From Scratch Chapter 1
+ZCZC W08 60 L18 Linux From Scratch Chapter 2
+ZCZC W08 90 L18 Linux From Scratch Chapter 3
+ZCZC W08 120 L18 Linux From Scratch Chapter 4
+ZCZC W08 180 L18 Linux From Scratch Chapter 5
+ZCZC W08 30 L41 TXT/mylog.txt update
+ZCZC W08 30 L08 OS Chat related (WA, LINE, Telegram, Signal) with Friend
+ZCZC W08 10 L40 TXT/myupdate.txt update
+ZCZC W08 20 L43 TXT/myrank.txt update
+ZCZC W08 30 L18 Update links on links.md for Assignment 8
+ZCZC W08 30 L18 POPQUIZ1 for Assignment 8
+ZCZC W08 60 L18 POPQUIZ2 for Assignment 8
+ZCZC W08 30 L41 TXT/mylog.txt update
+ZCZC W08 15 L18 Finishing for Assignment 8
+ZCZC W08 15 L18 Run and Confirm for Assignment 8
+ZCZC W08 15 L41 TXT/mylog.txt update
