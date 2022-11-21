@@ -98,6 +98,17 @@ A video discussing process synchronization in Operating Systems. One of the mate
 19. [Critical Section Animation](https://www.youtube.com/watch?v=6x_XMDCMyAk)<br>
 An animation explaining the solution to Critical Section in Operating System.
 
+## WEEK 08
+
+20. [Introduction to CPU Scheduling](https://www.youtube.com/watch?v=EWkQl0n0w5M)<br>
+A video explaining about CPU Scheduling. A good intro for anyone who's just learning about it.
+
+21. [CPU Scheduling Algorithms in OS](https://www.guru99.com/cpu-scheduling-algorithms.html)<br>
+A website/blog talking about a brief overview on CPU Scheduling and then more about CPU Scheduling Algorithms.
+
+22. [CPU Scheduling Algorithms Animation](https://www.youtube.com/watch?v=w9Uld56AsKE)<br>
+An animation video demonstrating the algorithms of CPU Scheduling.
+
 
 <br>
 <hr>
